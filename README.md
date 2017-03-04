@@ -14,6 +14,7 @@ This is the second version of TinyForum. Based upon the previous version which w
  * previewing a post before the world see's it on new users,
  * authenticate a new user via emailed link (SMS support would be nice - hints on how???)
 * Added support for QWK offline reader
+* Added support for RSS atom feeds
 
 ### What exactly does mkdbfs.p do?
 * Has 6 embedded emoticons, and generates the css/emoticon.css file as needed.
